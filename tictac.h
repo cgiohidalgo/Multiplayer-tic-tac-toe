@@ -1,3 +1,8 @@
+/* This is the server side code to host a tic-tac-toe game between two players.
+ * E-mail   : carlos.hidalgo@correounivalle.edu.co
+ *
+ */
+
 #include <cstdio>
 #include <cstdlib>
 #include <iostream>
