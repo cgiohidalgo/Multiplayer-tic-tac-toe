@@ -2,7 +2,7 @@
 
 A Multiplayer Tic-Tac-Toe game written in C++ based on the client-server model using the basics of socket programming.
 
-Currently the source code has been compiled for Linux systems. Here's what the server (Player 1) needs to do to set up a game :
+Currently the source code has been compiled for Linux systems. Here's what the server (Player 1) needs to do to set up a game:
 
 ```
 ./server.out    
